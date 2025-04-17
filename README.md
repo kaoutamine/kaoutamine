@@ -4,7 +4,7 @@ I'm currently working at **JobCloud** as a **Security Engineer**, collaborating 
 
 ## About Me
 
-- 🎓 Graduated from **ETH Zurich** and **EPFL** with experience across hardware, software, security, and machine learning.
+- 🎓 Graduated from **ETH Zurich** and **EPFL** with courses across hardware, software, security, and machine learning.
 - 🛡️ Special interest in the **defense industry**, especially maritime, aerial, and drone warfare.
 - 🚀 Long-term goal: lead a project in the defense sector. Until then, I'm building a strong foundation in security and software engineering.
 
