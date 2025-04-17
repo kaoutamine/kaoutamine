@@ -18,7 +18,8 @@ Because I want to code more regularly (and because I genuinely love it), I'm wor
 
 
 ## If you're on my profile looking for ML/Software projects 
-[Identifying recrystallization in stainless steel using machine learning on acoustic data](https://www.overleaf.com/read/qfvnxcgwnnpd#ad813c) grade 6/6 @EPFL 
+[Identifying recrystallization in stainless steel using machine learning on acoustic data](https://www.overleaf.com/read/qfvnxcgwnnpd#ad813c) grade 6/6 @EPFL
+ 
 [Estimating the robustness of deep learning fraud detection on the Ethereum blockchain against  attackers with a leaked model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) grade 6/6 @EPFL
 
 
