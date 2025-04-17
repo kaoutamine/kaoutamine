@@ -18,6 +18,7 @@ Because I want to code more regularly (and because I genuinely love it), I'm wor
 
 
 - **LeetCode Practice(https://leetcode.com/user1238lu/)**: Algorithms were one of my favorite topics in college, and I’m keeping my edge by solving problems regularly.
+
 ![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/user1238lu?theme=dark&bgColor=282828)
 
 
