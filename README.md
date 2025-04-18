@@ -13,7 +13,7 @@ I'm currently working at **JobCloud** as a **Security Engineer**, collaborating 
 Because I want to code more regularly (and because I genuinely love it), I'm working on a few side projects:
 
 
-- **Travian Automation**: I'm building a script to automate parts of **Travian**, an online strategy game for fun and convenience and to keep my software skills with my security skills.
+- I'm building a script to automate parts of [Travian](https://www.travian.com)([Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots)), an online strategy game for fun, convenience and to my software skills burning on top of my work :D. 
 - **Drone Counterwarfare Project**: I'm privately working on a **drone counterwarfare system**. (If you're in the defense industry and happen to land here — know that I'm very interested in this space.)
 
 
