@@ -10,6 +10,11 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 ## What I'm Working On
 
 - 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here: [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
+
+- <img width="324" alt="image" src="https://github.com/user-attachments/assets/82725fe9-b347-409e-a1e7-d2ae615b6ff1" />
+
+
+
 - 🚁 **Drone Counterwarfare Project**: Privately working on a **drone counterwarfare system**. (If you're in the defense industry and happen to land here — know that I'm *very* interested in this space.)
 - 🧠 **LeetCode Practice**: Keeping my algorithms skills fresh by solving problems regularly. [Here’s my LeetCode profile](https://leetcode.com/user1238lu/).
 
