@@ -1,11 +1,12 @@
 # Hi, I'm Kaou 👋
 
-I'm working at **JobCloud** as a **Security Engineer**, collaborating with Cloud Engineers and 150+ Software Engineers to secure our cloud, software, and people.
-
 ## About Me
+- I'm working at **JobCloud** as a **Security Engineer**, collaborating with Cloud Engineers and 150+ Software Engineers to secure our cloud, software, and people.
+- 🎓 Graduated from **ETH Zurich** and **EPFL**, with coursework spanning hardware, software, security, and machine learning.
 
-🎓 Graduated from **ETH Zurich** and **EPFL**, with coursework spanning hardware, software, security, and machine learning.
+Positioned across Software, Corporate, Management, and Cloud, I’m constantly learning and adapting to serve as an effective security middle point. My work spans both hands-on technical tasks and the communication and coordination needed to align different teams and priorities.
 
+On the side, I'm doing a bit of software work both to keep my skills fresh and for my own fun. 
 ## What I'm Working On
 
 - 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here: [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
