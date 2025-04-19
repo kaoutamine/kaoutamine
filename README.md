@@ -20,8 +20,10 @@ I want to code more regularly (and because I genuinely love it), so I'm working 
 
 ## If You're Here for ML/Software Projects
 
-- [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://www.overleaf.com/read/qfvnxcgwnnpd#ad813c) — grade 6/6 @EPFL
-- [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL
+- [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://www.overleaf.com/read/qfvnxcgwnnpd#ad813c) — grade 6/6 @EPFL, project for the laboratory of Thermomechanical metallurgy of EPFL under Claire Navarre  
+- [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the laboratory of Ford Decentralised and Distributed Systems Lab
+- [Reducing noise by training exclusively on noisy data using deep auto-encoders U-nets](https://www.overleaf.com/project/6276868dfe09ce388dcf89d6 — grade 6/6
+- 
 
 ## Fun Fact
 
