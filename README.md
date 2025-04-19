@@ -4,13 +4,9 @@ I'm working at **JobCloud** as a **Security Engineer**, collaborating with Cloud
 
 ## About Me
 
-- 🎓 Graduated from **ETH Zurich** and **EPFL**, with coursework spanning hardware, software, security, and machine learning.
-- 🛡️ Strong interest in the **defense industry**, especially maritime, aerial, and drone warfare.
-- 🚀 Long-term goal: lead a major project in the defense sector. Until then, I'm building a solid foundation in security and software engineering.
+🎓 Graduated from **ETH Zurich** and **EPFL**, with coursework spanning hardware, software, security, and machine learning.
 
 ## What I'm Working On
-
-I want to code more regularly (and because I genuinely love it), so I'm working on a few side projects:
 
 - 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here: [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
 - 🚁 **Drone Counterwarfare Project**: Privately working on a **drone counterwarfare system**. (If you're in the defense industry and happen to land here — know that I'm *very* interested in this space.)
