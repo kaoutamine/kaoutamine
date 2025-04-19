@@ -1,6 +1,6 @@
 # Hi, I'm Kaou 👋
 
-I'm currently working at **JobCloud** as a **Security Engineer**, collaborating with Cloud Engineers and 150+ Software Engineers to secure our cloud, software, and people.
+I'm working at **JobCloud** as a **Security Engineer**, collaborating with Cloud Engineers and 150+ Software Engineers to secure our cloud, software, and people.
 
 ## About Me
 
