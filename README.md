@@ -22,9 +22,8 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 ## If You're Here for ML/Software Projects
 
-- [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://www.overleaf.com/read/qfvnxcgwnnpd#ad813c) — grade 6/6 @EPFL, project for the Laboratory of Thermomechanical Metallurgy of EPFL under Claire Navarre
+- [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data]([https://www.overleaf.com/read/qfvnxcgwnnpd#ad813c](https://github.com/kaoutamine/ML_laser_powder_project)) — grade 6/6 @EPFL, project for the Laboratory of Thermomechanical Metallurgy of EPFL under Claire Navarre
 - [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the Decentralized and Distributed Systems Lab
-- [Reducing noise by training exclusively on noisy data using deep auto-encoders U-nets](https://www.overleaf.com/project/6276868dfe09ce388dcf89d6) — grade 6/6
 
 ## Fun Fact
 
