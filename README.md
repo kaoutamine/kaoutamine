@@ -19,14 +19,4 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 - [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://github.com/kaoutamine/ML_laser_powder_project) — grade 6/6 @EPFL, project for the Laboratory of Thermomechanical Metallurgy of EPFL under Claire Navarre
 - [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the Decentralized and Distributed Systems Lab
 
-## Fun Fact
-
-I'm deeply passionate about defense and military technology.  
-In my free time, I read extensively about maritime warfare (surface, subsurface, aerial), drone warfare, and air combat.
-
-I've attended airshows, had the chance to visit French nuclear submarines, and can recognize most modern fighter jets just by sight.  
-I'm also a strong believer in Europe's need for a resilient, independent defense industry — one that can stand tall without relying on the United States.
-
 ---
-
-Thanks for stopping by 👋
