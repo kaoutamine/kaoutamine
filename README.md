@@ -13,13 +13,7 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 - <img width="324" alt="image" src="https://github.com/user-attachments/assets/82725fe9-b347-409e-a1e7-d2ae615b6ff1" />
 
-
-
-- 🚁 **Drone Counterwarfare Project**: Privately working on a **drone counterwarfare system**. (If you're in the defense industry and happen to land here — know that I'm *very* interested in this space.)
-- 🧠 **LeetCode Practice**: Keeping my algorithms skills fresh by solving problems regularly. [Here’s my LeetCode profile](https://leetcode.com/user1238lu/).
-
-[![LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/user1238lu?theme=dark&bgColor=282828)](https://leetcode.com/user1238lu/)
-
+- 
 ## If You're Here for ML/Software Projects
 
 - [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://github.com/kaoutamine/ML_laser_powder_project) — grade 6/6 @EPFL, project for the Laboratory of Thermomechanical Metallurgy of EPFL under Claire Navarre
