@@ -13,10 +13,9 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/7b8403b4-e90a-42fe-970b-2d4e1141d102" />
 
-[Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
-
 - <img width="324" alt="image" src="https://github.com/user-attachments/assets/82725fe9-b347-409e-a1e7-d2ae615b6ff1" />
 
+[Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
 
 ## If You're Here for ML/Software Projects
 
