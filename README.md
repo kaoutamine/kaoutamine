@@ -23,6 +23,6 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 - [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the Decentralized and Distributed Systems Lab
 
 
-## Because everybody and their cat did leetcode to get an internship (and also because it somehow stuck):
+## Because everybody and their cat did leetcoded to get an internship (& I acc like it):
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user1238lu?font=Dancing_Script)
 ---
