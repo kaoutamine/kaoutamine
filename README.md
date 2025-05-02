@@ -25,5 +25,5 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 
 ## Because everybody and their cat did leetcode to get an internship (and also because it somehow stuck):
-![](https://leetcard.user1238lu.cool/leetcode?site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/user1238lu?font=Dancing_Script)
 ---
