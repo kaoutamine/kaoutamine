@@ -9,14 +9,21 @@ Positioned across Software, Corporate, Management, and Cloud, I’m constantly l
 On the side, I'm doing a bit of software work both to keep my skills fresh and for my own fun. 
 ## What I'm Working On
 
-- 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here: [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
+- 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here:
+
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/7b8403b4-e90a-42fe-970b-2d4e1141d102" />
+
+[Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
 
 - <img width="324" alt="image" src="https://github.com/user-attachments/assets/82725fe9-b347-409e-a1e7-d2ae615b6ff1" />
 
-- 
+
 ## If You're Here for ML/Software Projects
 
 - [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://github.com/kaoutamine/ML_laser_powder_project) — grade 6/6 @EPFL, project for the Laboratory of Thermomechanical Metallurgy of EPFL under Claire Navarre
 - [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the Decentralized and Distributed Systems Lab
 
+
+## Because everybody and their cat did leetcode to get an internship (and also because it somehow stuck):
+![](https://leetcard.user1238lu.cool/leetcode?site=cn)
 ---
