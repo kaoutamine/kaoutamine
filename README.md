@@ -8,12 +8,12 @@ Positioned across Software, Corporate, Management, and Cloud, I’m constantly l
 
 On the side, I'm doing a bit of software work both to keep my skills fresh and for my own fun. 
 ## What I'm Working On
+- My daily work =>  L1–L2 incident response, threat modeling, and design reviews, AWS and Microsoft 365 security (Entra ID, Defender, Purview), Bug bounty handling. , external report reviews, Disaster recovery, support audits and compliance efforts...
 
 - 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here:
 
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/7b8403b4-e90a-42fe-970b-2d4e1141d102" />
 
-- <img width="324" alt="image" src="https://github.com/user-attachments/assets/82725fe9-b347-409e-a1e7-d2ae615b6ff1" />
 
 [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
 
