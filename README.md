@@ -17,12 +17,12 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
 
-## Yup I may be a software engineer at heart but that doesn't mean I dabbled into ML and Data science 
+## Yup I may be a Security engineer at heart but that doesn't mean I can't sit down and do ML and Data
 
 - [Identifying Recrystallization in Stainless Steel Using Machine Learning on Acoustic Data](https://github.com/kaoutamine/ML_laser_powder_project/blob/main/ML_laser_powder_paper.pdf) — grade 6/6 @EPFL, project for the Laboratory of Thermomechanical Metallurgy of EPFL under Claire Navarre
 - [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the Decentralized and Distributed Systems Lab
 
 
-## Because everybody and their cat leetcoded for their master's internship:
+## My brief leetcode era:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user1238lu?font=Dancing_Script)
 ---
