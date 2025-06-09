@@ -12,7 +12,9 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 - 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here:
 
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/7b8403b4-e90a-42fe-970b-2d4e1141d102" />
+![Farm List Management](docs/images/farm_list_config.png)
+I reverse engineered API calls, explored HTML dumps to extract relevant informations, set up multithreading for hero/village operations, implemented login retry logic.
+Had loaads of fun. Was top 10 in a server for about 2 months before I got bored of the game :D 
 
 
 [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
