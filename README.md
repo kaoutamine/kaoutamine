@@ -10,7 +10,7 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 ## What I've (recently) been Working On
 - My daily work =>  L1–L2-L3 incident response, threat modeling, and software design reviews, AWS and Microsoft 365 security (Entra ID, Defender, Purview), Bug bounty handling. , external report reviews, Disaster recovery, support audits and compliance efforts... I could go on forever about the wide lists of tasks of a classic security engineer in a company built around software.
 
-<img align="left" src="https://github.com/user-attachments/assets/9b9e4320-ad4b-4881-a79b-15fa03cde6c8" width="200" style="margin-right: 20px;" />
+<img align="left" src="https://github.com/user-attachments/assets/9b9e4320-ad4b-4881-a79b-15fa03cde6c8" width="300" style="margin-right: 20px;" />
 
 🛠️ **Travian Automation Bot**  
 I built a fully automated system for [Travian](https://www.travian.com), a classic browser strategy game — mostly to have fun, streamline gameplay, and sharpen my software skills.  
