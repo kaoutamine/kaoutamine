@@ -10,13 +10,18 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 ## What I've (recently) been Working On
 - My daily work =>  L1–L2-L3 incident response, threat modeling, and software design reviews, AWS and Microsoft 365 security (Entra ID, Defender, Purview), Bug bounty handling. , external report reviews, Disaster recovery, support audits and compliance efforts... I could go on forever about the wide lists of tasks of a classic security engineer in a company built around software.
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/9b9e4320-ad4b-4881-a79b-15fa03cde6c8" width="200" style="float: left; margin-right: 20px;" />
-</p>
+<img align="left" src="https://github.com/user-attachments/assets/9b9e4320-ad4b-4881-a79b-15fa03cde6c8" width="200" style="margin-right: 20px;" />
 
-🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here at [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
+🛠️ **Travian Automation Bot**  
+I built a fully automated system for [Travian](https://www.travian.com), a classic browser strategy game — mostly to have fun, streamline gameplay, and sharpen my software skills.  
+👉 [Check out the repo here](https://github.com/kaoutamine/travian_legends_bots)
 
-I developed a fully automated Travian bot by reverse-engineering the game’s web and API layers. It handles authentication with auto-retry, interacts with GraphQL and HTML endpoints, and supports modular raid planning with persistent configuration and faction-specific unit mapping. I implemented multithreaded logic to decouple hero dispatching from village troop usage, and built tooling to parse unstructured oasis data and estimate combat viability based on animal types and power levels. It even hooks into Travian’s own internal combat simulator to estimate raid outcomes without sending real troops. The system is extensible and you could (relatively) easily integrate new tribes, unit types and even make it into a general game playing bot, building buildings and managing resource fields.
+This bot reverse-engineers both the API and HTML layers of the game. It authenticates with auto-retry logic, parses GraphQL responses, and interacts with form-based endpoints to simulate real user actions. I implemented modular raid planning with persistent configurations, support for multiple factions with unit mapping, and multithreaded logic to handle hero dispatching independently from troop usage.
+
+It parses unstructured oasis data, estimates combat difficulty by analyzing animal types and counts, and can even simulate raids by querying Travian’s internal fight simulator — letting you plan attacks without risking actual units. The system is modular and extensible, with room to support more tribes, building automation, and full resource management.
+
+> ⚙️ If you're curious about game automation, scraping, or building your own strategy bot — take a look at the source!
+
 
 
 
