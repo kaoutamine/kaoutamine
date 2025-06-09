@@ -12,9 +12,9 @@ On the side, I'm doing a bit of software work both to keep my skills fresh and f
 
 - 🛠️ Building a script to automate parts of [Travian](https://www.travian.com) — a classic online strategy game — for fun, convenience, and to keep my software skills sharp. Check it out here:
 
-![Farm List Management](docs/images/farm_list_config.png)
-I reverse engineered API calls, explored HTML dumps to extract relevant informations, set up multithreading for hero/village operations, implemented login retry logic.
-Had loaads of fun. Was top 10 in a server for about 2 months before I got bored of the game :D 
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/9b9e4320-ad4b-4881-a79b-15fa03cde6c8" />
+
+I developed a fully automated Travian bot by reverse-engineering the game’s web and API layers. It handles authentication with auto-retry, interacts with GraphQL and HTML endpoints, and supports modular raid planning with persistent configuration and faction-specific unit mapping. I implemented multithreaded logic to decouple hero dispatching from village troop usage, and built tooling to parse unstructured oasis data and estimate combat viability based on animal types and power levels. It even hooks into Travian’s own internal combat simulator to estimate raid outcomes without sending real troops. The system is extensible and you could (relatively) easily integrate new tribes, unit types and even make it into a general game playing bot, building buildings and managing ressource fields. 
 
 
 [Travian Automation GitHub Repo](https://github.com/kaoutamine/travian_legends_bots).
