@@ -33,6 +33,3 @@ It parses unstructured oasis data, estimates combat difficulty by analyzing anim
 - [Estimating the Robustness of Deep Learning Fraud Detection on the Ethereum Blockchain Against Attackers with a Leaked Model](https://www.overleaf.com/read/mbxvnznrmbhv#c37320) — grade 6/6 @EPFL, project for the Decentralized and Distributed Systems Lab
 
 
-## My brief leetcode era:
-![LeetCode Stats](https://leetcard.jacoblin.cool/user1238lu?font=Dancing_Script)
----
