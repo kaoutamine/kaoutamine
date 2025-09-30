@@ -23,7 +23,7 @@ It parses unstructured oasis data, estimates combat difficulty by analyzing anim
 > ⚙️ If you're curious about game automation, scraping, or building your own strategy bot — take a look at the source!
 
 
-🛠️ **Email CHanary**  
+🛠️ **Email CHanary Breach detection**  
 
 Scripts we wrote in powershell & python to make it easier to set up email canaries in employee address books.
 This allows us to identify if an employee has been a victim of a business email compromise and is sending mails to the entirety of it's address book, including 
