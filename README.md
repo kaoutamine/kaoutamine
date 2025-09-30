@@ -23,6 +23,14 @@ It parses unstructured oasis data, estimates combat difficulty by analyzing anim
 > ⚙️ If you're curious about game automation, scraping, or building your own strategy bot — take a look at the source!
 
 
+🛠️ **Email CHanary**  
+
+Scripts we wrote in powershell & python to make it easier to set up email canaries in employee address books.
+This allows us to identify if an employee has been a victim of a business email compromise and is sending mails to the entirety of it's address book, including 
+the canary shared mailbox that has been created on the company microsoft exchange environment.
+We use this tool at both Bug Bounty Switzerland and Jobcloud. Feel free to set it up for your own organisation ;) 
+
+https://github.com/grennault/emailCHanary
 
 
 
